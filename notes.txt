@@ -1,0 +1,2 @@
+This is a note created via a Colab code cell.
+Learning Git workflow for CHEM 269.
